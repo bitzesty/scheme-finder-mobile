@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.growingambitions" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>GrowingAmbitions</name>
+    <description>
+Growing Ambitions – Learning Connecting and Inspiring free online matching 
+tool.
+
+In partnership with the Education and Employers Taskforce, The Department of Business, Innovation and Skills (BIS) have developed this free online matching tool.
+
+The tool is for employers and teachers, and is a free service with simple search functionality to identify sector or company led programmes aimed at learning, connecting and inspiring the next generation of young people. 
+
+Growing Ambitions will help
+
+* businesses connect with schools by providing recommendations based on  curriculum led need and location
+* teachers get curriculum supported lesson materials, visits and careers advice by providing recommendations based on curriculum led need and location
+
+Who should use this free online tool?
+
+Growing Ambitions is for:
+
+* employers to engage with schools and enrich learning
+* teachers to showcase industry and support understanding of the world of work
+
+The free brokerage tool won't:
+
+* ask for your personal information
+* identify every scheme available 
+
+Disclaimer
+
+You will not be asked to provide any personal identity information such as your name and address while using this free brokerage tool. No information you enter will be stored unless it is specifically for evaluation purposes. The brokerage tool search result is not contractual, legally binding or an invitation to treat or any demand for payment, it is for information purposes only and no guarantee can be given to  accuracy of third party web page information which also depends on the accuracy of information provided for the tool. Some content may not be compatible with your device. Please note the app reports anonymous usage statistics to help improve the service. You can view the Terms and Conditions by accessing them via the link in the app or at [ link ]
+    </description>
+    <author email="info@bitzesty.com" href="http://www.bitzesty.com">
+        Bit Zesty
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

@@ -1,0 +1,23 @@
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes.dex : \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/com/growingambitions/BuildConfig.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/com/growingambitions/GrowingAmbitions.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/com/growingambitions/R$attr.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/com/growingambitions/R$drawable.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/com/growingambitions/R$string.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/com/growingambitions/R$xml.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/com/growingambitions/R.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4$1.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/matthewford/bitzesty/growingambitions-mobile/platforms/android/ant-build/dexedLibs/classes-e5d2185c620d636ac8053a5a52dbcdc2.jar \
